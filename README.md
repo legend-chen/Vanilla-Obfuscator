@@ -5,6 +5,6 @@ Vanilla Obfuscator is extremely pure Javascript Obfuscator which provide reliabl
 Variables Renaming  
 Properties Renaming  
 Custom Code Transformations  
-Configure Dasboard  
+Configuration Dasboard  
 
 
